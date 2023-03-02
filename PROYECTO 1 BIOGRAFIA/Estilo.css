@@ -1,0 +1,17 @@
+
+.contenedor{
+    display: flex;
+    background-color: rgb(228, 152, 247);
+    margin: 0 auto;
+    width: 80%;
+}
+
+.izquierda{
+    width: 80%;
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.derecha{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
